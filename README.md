@@ -34,24 +34,25 @@ Need someone who quietly delivers and doesn’t need handholding? That’s me.
 ## 💼 Recent Projects
 
 𝙃𝙍 / 𝘾𝙤𝙧𝙥𝙤𝙧𝙖𝙩𝙚 𝙏𝙧𝙖𝙞𝙣𝙞𝙣𝙜 𝙎𝙖𝙖𝙎:
-• Developed and deployed an internal automation tool that reduced task completion time by 83%, dramatically improving team efficiency.
-• Delivered a high-impact microservice architecture that improved page load speeds by 4× and report generation by 40×.
-• Increased user session growth by 83% and feature adoption by 169%, leading to a 21% boost in client satisfaction.
-• Negotiated team alignment across engineering, product, and operations to implement flexible business rule enforcement and data integrity.
+- Developed and deployed an internal automation tool that reduced task completion time by 83%, dramatically improving team efficiency.
+- Delivered a high-impact microservice architecture that improved page load speeds by 4× and report generation by 40×.
+- Increased user session growth by 83% and feature adoption by 169%, leading to a 21% boost in client satisfaction.
+- Negotiated team alignment across engineering, product, and operations to implement flexible business rule enforcement and data integrity.
 
 𝘾𝙪𝙨𝙩𝙤𝙢 𝘿𝙤𝙘𝙪𝙢𝙚𝙣𝙩 𝘽𝙪𝙞𝙡𝙙𝙚𝙧 (𝙃𝙍 𝙋𝙡𝙖𝙩𝙛𝙤𝙧𝙢):
-• Replaced a third-party WYSIWYG editor, achieving:
-  • 100% licensing cost reduction.
-  • Enhanced customization, branding, and workflow control.
-  • Scroll-based progress tracking for better engagement metrics.
-  • Delivered MVP in 15 days; scaled to full production release as lead engineer.
+- Replaced a third-party WYSIWYG editor, achieving:
+- 100% licensing cost reduction.
+- Enhanced customization, branding, and workflow control.
+- Scroll-based progress tracking for better engagement metrics.
+- Delivered MVP in 15 days; scaled to full production release as lead engineer.
 
 𝙃𝙚𝙖𝙡𝙩𝙝𝙏𝙚𝙘𝙝 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
-• Built a remote diabetes monitoring app for doctors and patients using Ionic, Angular, NgRx, and NestJS.
-• Developed a telemedicine platform using OpenTok for secure doctor-patient video consultations.
+- Built a remote diabetes monitoring app for doctors and patients using Ionic, Angular, NgRx, and NestJS.
+- Developed a telemedicine platform using OpenTok for secure doctor-patient video consultations.
 
 𝙄𝙤𝙏 / 𝙎𝙩𝙧𝙪𝙘𝙩𝙪𝙧𝙖𝙡 𝙃𝙚𝙖𝙡𝙩𝙝 𝙈𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜:
-• Delivered a full-stack MVP for structural integrity monitoring using Angular/Ionic, Node.js, NestJS, and PostgreSQL, all deployed to AWS in just 160 hours.
+- Delivered a full-stack MVP for structural integrity monitoring using Angular/Ionic, Node.js, NestJS, and PostgreSQL, all deployed to AWS in just 160 hours.
+
 ## 📬 Get in Touch
 
 - GitHub: [github.com/smtaha512](https://github.com/smtaha512)

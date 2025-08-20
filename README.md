@@ -56,7 +56,7 @@ Need someone who quietly delivers and doesn’t need handholding? That’s me.
 
 - GitHub: [github.com/smtaha512](https://github.com/smtaha512)
 - Email: contact@smtaha.dev
-- Open to: hourly freelancart-time contracts, or async projects (timezone-flexible)
+- Open to: hourly freelanc, part-time contracts, or async projects (timezone-flexible)
 
 ---
 
